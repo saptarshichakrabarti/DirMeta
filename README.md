@@ -30,8 +30,6 @@ It is strongly recommended to install `dirmeta` within a Python virtual environm
 pip install dirmeta
 ```
 
-*(Note: This command will only work if the package has been published to the Python Package Index (PyPI).)*
-
 **2. Installing from Source (e.g., after cloning the repository)**
 
 ```bash
